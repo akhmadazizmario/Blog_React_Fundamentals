@@ -2,16 +2,19 @@
     {
         "title": "tutorial belajar react js",
         "tags": ["react", "frontend"],
-        "date": "2023-07-06"
+        "date": "2023-07-06",
+        "isNew": true
     },
     {
         "title": "tutorial belajar Backend",
         "tags": ["express", "backend"],
-        "date": "2023-07-06"
+        "date": "2023-07-03",
+        "isNew": false
     },
     {
         "title": "tutorial belajar php",
         "tags": ["Laravel", "Codeigniter"],
-        "date": "2023-07-06"
+        "date": "2023-07-02",
+        "isNew": false
     }
 ]
