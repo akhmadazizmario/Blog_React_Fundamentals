@@ -1,0 +1,5 @@
+/* Styling CSS buat Layouts Root Layouts NavLink */
+.active {
+    background-color: red;
+    color: white;
+}
