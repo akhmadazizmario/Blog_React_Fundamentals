@@ -5,7 +5,6 @@ const ArticleStatus = ({isNew}) => {
     return isNew && <span> -- Baru!!</span>
 };
 
-
 function Article (props) {
     const user = useContext(GlobalContext);
 
